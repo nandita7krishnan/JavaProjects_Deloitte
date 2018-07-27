@@ -14,7 +14,7 @@ class ScopeExample{
 }
 public class MainClass {
 	public MainClass() {
-		ScopeExample scope=n ew ScopeExample();
+		ScopeExample scope=new ScopeExample();
 		scope.firstMethod();
 	}
 }
