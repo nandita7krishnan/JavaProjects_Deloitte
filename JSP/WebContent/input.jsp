@@ -10,6 +10,6 @@
 </head>
 <body>
 <%=new Date() %>
-<%=Integer.parseInt("4") %>
+<%=Integer.parseInt("4 ") %>
 </body>
 </html>
