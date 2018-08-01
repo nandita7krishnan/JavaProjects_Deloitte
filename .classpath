@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="access_specifiers/src"/>
+	<classpathentry kind="src" path="Encapsulation/src"/>
+	<classpathentry kind="src" path="importsAndAll/src"/>
+	<classpathentry kind="src" path="Interfaces/src"/>
+	<classpathentry kind="src" path="JavaArrays2/src"/>
+	<classpathentry kind="src" path="Oops/src"/>
+	<classpathentry kind="src" path="super/src"/>
+	<classpathentry kind="src" path="task1/src"/>
+	<classpathentry kind="src" path="test/src"/>
+	<classpathentry kind="src" path="VariableScoping/src"/>
+	<classpathentry kind="output" path="Encapsulation/bin"/>
+</classpath>
