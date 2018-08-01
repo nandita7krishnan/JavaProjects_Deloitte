@@ -6,7 +6,7 @@
   <description>
     Resource reference to a factory for java.sql.Connection
     instances that may be used for talking to a particular
-    database that is configured in the <Context>
+    database that is configured in the 
     configuration for the web application.
     
   </description>
@@ -21,13 +21,7 @@
   </res-auth>
 </resource-ref>
 
-Context initCtx = new InitialContext();
-DataSource ds = (DataSource) initCtx.lookup("java:comp/env/jdbc/TeamDB");
 
-
-Connection conn = ds.getConnection();
-... use this connection to access the database ...
-conn.close();
   
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
